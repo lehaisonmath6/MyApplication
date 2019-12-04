@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "868140955525",
+    "firebase_url": "https://trustkeys-network.firebaseio.com",
+    "project_id": "trustkeys-network",
+    "storage_bucket": "trustkeys-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868140955525:android:7abb5497708aecbf7376ec",
+        "android_client_info": {
+          "package_name": "com.example.helloworld2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868140955525-fu3ec8tqjo2nb4pvs9dhhnu6k5v0p0u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helloworld2",
+            "certificate_hash": "972d672be5b69d2b8b6e583cc88ae33aa6314c9b"
+          }
+        },
+        {
+          "client_id": "868140955525-q0818rjgcvtp4vu3b1m3tib94ol85kis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5P4f-tAdlUAUA7BQy4vhayoVl6HVr43U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868140955525-g17j2t463apcskhhc7glamlhmcvir86r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868140955525-fousj0nombhpp33mm2si1l9giu2asl57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.openstars.trustkeysbutta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868140955525:android:b4fbaf58f562f4697376ec",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868140955525-c0j5u98kol6th700lols75u5asl1q97k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "972d672be5b69d2b8b6e583cc88ae33aa6314c9b"
+          }
+        },
+        {
+          "client_id": "868140955525-q0818rjgcvtp4vu3b1m3tib94ol85kis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5P4f-tAdlUAUA7BQy4vhayoVl6HVr43U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868140955525-g17j2t463apcskhhc7glamlhmcvir86r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868140955525-fousj0nombhpp33mm2si1l9giu2asl57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.openstars.trustkeysbutta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868140955525:android:eabd421ae4342e1d",
+        "android_client_info": {
+          "package_name": "com.trustkeysnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868140955525-q0818rjgcvtp4vu3b1m3tib94ol85kis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5P4f-tAdlUAUA7BQy4vhayoVl6HVr43U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868140955525-g17j2t463apcskhhc7glamlhmcvir86r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868140955525-fousj0nombhpp33mm2si1l9giu2asl57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.openstars.trustkeysbutta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868140955525:android:e5ca7d45ae114c4d",
+        "android_client_info": {
+          "package_name": "org.openstars.trustkeyspro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868140955525-q0818rjgcvtp4vu3b1m3tib94ol85kis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5P4f-tAdlUAUA7BQy4vhayoVl6HVr43U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868140955525-g17j2t463apcskhhc7glamlhmcvir86r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868140955525-fousj0nombhpp33mm2si1l9giu2asl57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.openstars.trustkeysbutta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
